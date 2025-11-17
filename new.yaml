@@ -1,0 +1,92 @@
+version:2
+task_description:test
+created_by:test
+seed_examples:
+    - question: "Can I eat before my blood test?"
+    answer: | 
+    "For most blood tests, fasting for 8–12 hours is recommended. Drink only water
+    unless your doctor says otherwise."
+
+  - question: "Can I eat before my ultrasound appointment?"
+    category: preparation_instructions
+    answer: | 
+    "For most ultrasound exams, you may be asked to fast for a few hours. Please
+    follow the instructions provided when booking."
+
+  - question: "Where can I park when visiting a patient?"
+    category: visitor_information
+    answer: | 
+    "Visitor parking is available in the south lot. Follow the signs to 'Visitor Entrance'.
+    The first 30 minutes are free."
+
+  - question: "How can I schedule an appointment with a doctor?"
+    category: appointments
+    answer: | 
+    "You can schedule an appointment by calling the hospital’s main reception at 555-
+    0100 or using the online patient portal."
+
+  - question: "Can I change my appointment date?"
+    category: appointments
+    answer: | 
+    "Yes, you can reschedule by contacting the scheduling desk at least 24 hours before
+    your appointment."
+
+  - question: "Where is the radiology department located?"
+    category: visitor_information
+    answer: | 
+    "The radiology department is on the second floor of the main building, next to the
+    emergency entrance."
+
+  - question: "What are the visiting hours for patients?"
+    category: visitor_information
+    answer: | 
+    "Visiting hours are from 10:00 a.m. to 8:00 p.m. daily. ICU visits may have
+    restricted hours."
+
+  - question: "How do I get my lab results?"
+    category: lab_results
+    answer: | 
+    "Lab results are available through the secure patient portal once reviewed by your
+    physician. You can also request printed copies from the front desk."
+
+  - question: "Is there a cafeteria in the hospital?"
+    category: facilities
+    answer: | 
+    "Yes, the cafeteria is located on the ground floor and is open from 7:00 a.m. to 7:00
+    p.m. daily."
+
+  - question: "How can I contact a patient in Room 215?"
+    category: visitor_information
+    answer: | 
+    "You can call the hospital’s main number and ask to be connected to Room 215.
+    Please respect quiet hours between 9:00 p.m. and 7:00 a.m."
+
+  - question: "What should I do if I lost something during my visit?"
+    category: lost_and_found
+    answer: | 
+    "Please contact the hospital’s security office or the information desk to report lost
+    items. Found items are kept for 30 days."
+
+  - question: "How can I pay my hospital bill?"
+    category: insurance_and_billing
+    answer: | 
+    "You can pay your bill online through the patient portal, by mail, or in person at the
+    billing office on the first floor."
+
+  - question: "Can I get a copy of my medical records?"
+    category: records_request
+    answer: | 
+    "Yes, you can request your medical records through the patient portal or by
+    submitting a written request to the records department."
+
+  - question: "Is Wi-Fi available for visitors?"
+    category: facilities
+    answer: | 
+    "Free Wi-Fi is available throughout the hospital. Connect to the 'GuestNet' network
+    and follow the on-screen instructions."
+
+  - question: "How do I report a concern or provide feedback?"
+    category: feedback
+    answer: | 
+    "You can share feedback through the patient portal or contact the Patient Relations
+    Office by phone or email."
